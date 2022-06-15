@@ -1,5 +1,9 @@
 # IronHack_Java_Ex_1_-Trim
 
+@Author : Isabel Calzadilla.
+Date : 15-06-2022
+version : 1.
+
                                                                   Reto 1:
 
 Create a method named productFormatter that receives a String name productName and a String date as parameters. This method should return the productName trimmed, change spaces by _ and append the date at the end of the string. The result must be given in uppercase.
